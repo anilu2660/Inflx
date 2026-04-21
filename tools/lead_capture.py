@@ -10,7 +10,9 @@ The tool must NOT be triggered prematurely.
 It is called ONLY after all three values (name, email, platform) are collected.
 """
 
+from langchain_core.tools import tool
 
+@tool
 def mock_lead_capture(name: str, email: str, platform: str) -> str:
     """
     Simulate capturing a lead.
@@ -26,5 +28,5 @@ def mock_lead_capture(name: str, email: str, platform: str) -> str:
     Returns:
         A confirmation message string.
     """
-    print(f"Lead captured successfully: {name}, {email}, {platform}")
+   
     return f"Lead captured successfully: {name}, {email}, {platform}"

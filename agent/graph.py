@@ -216,7 +216,7 @@ def capture_lead_node(state: AgentState) -> dict:
     platform = state["user_platform"]
 
     # Execute mock lead capture
-    mock_lead_capture(name, email, platform)
+    mock_lead_capture.invoke({"name": name, "email": email, "platform": platform})
 
     confirmation = (
         f"Great news, {name}! I've captured your details successfully.\n\n"
