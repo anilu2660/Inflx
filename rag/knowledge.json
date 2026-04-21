@@ -1,0 +1,77 @@
+[
+  {
+    "category": "pricing",
+    "title": "Basic Plan",
+    "content": "The Basic Plan costs $29 per month. It includes up to 10 videos per month at 720p resolution, basic analytics and reporting, access to core automated editing tools, email support with 24-hour response time, and access to the content library with 500+ templates."
+  },
+  {
+    "category": "pricing",
+    "title": "Pro Plan",
+    "content": "The Pro Plan costs $79 per month. It includes unlimited videos at 4K resolution, AI-generated captions, advanced analytics with custom reports, AI-powered content suggestions, priority support available 24/7, team collaboration tools for up to 5 members, and a dedicated account manager."
+  },
+  {
+    "category": "pricing",
+    "title": "Plan Comparison",
+    "content": "AutoStream offers two plans: Basic at $29/month and Pro at $79/month. Basic gives you 10 videos/month at 720p. Pro gives you unlimited videos at 4K resolution plus AI captions. The Pro plan also includes 24/7 support, which is not available on the Basic plan. Both plans include a 14-day free trial with no credit card required."
+  },
+  {
+    "category": "features",
+    "title": "Automated Video Editing",
+    "content": "AutoStream uses AI to automatically edit your raw footage into polished, publish-ready videos. Features include smart trimming, auto-cut on silence, background music matching, color correction, scene transitions, and intro/outro templates. Basic plan users get access to core editing tools; Pro plan unlocks all advanced AI editing features."
+  },
+  {
+    "category": "features",
+    "title": "AI Captions",
+    "content": "Available exclusively on the Pro plan, AutoStream automatically generates accurate AI captions for every video. Captions support multiple languages, can be styled to match your brand, and are burned in or exported as SRT files for platform uploads. AI captions help boost watch time and accessibility."
+  },
+  {
+    "category": "features",
+    "title": "Video Resolution",
+    "content": "Basic plan videos are exported at 720p (HD) resolution, suitable for most social media platforms. Pro plan videos are exported at 4K (Ultra HD) resolution, ideal for YouTube, high-quality brand content, and professional productions. All exports are optimized for fast upload speeds."
+  },
+  {
+    "category": "features",
+    "title": "Analytics Dashboard",
+    "content": "AutoStream provides a video performance analytics dashboard that tracks views, watch time, engagement rates, and audience retention across all connected platforms. Basic plan users get standard reporting. Pro plan users get custom report generation, exportable data, and trend analysis to optimize future content."
+  },
+  {
+    "category": "features",
+    "title": "Team Collaboration",
+    "content": "The Pro plan includes team collaboration tools for up to 5 members. Features include role-based access control, shared project workspaces, version history, content approval workflows, and real-time comments on video projects. Ideal for content teams, agencies, and media companies."
+  },
+  {
+    "category": "features",
+    "title": "Content Templates",
+    "content": "AutoStream includes a library of 500+ professionally designed video templates for YouTube intros, social media reels, product demos, tutorials, and more. Templates are fully customizable with your brand colors, fonts, and logo. New templates are added monthly."
+  },
+  {
+    "category": "policies",
+    "title": "Refund Policy",
+    "content": "AutoStream does not offer refunds after 7 days of the start of your paid subscription. If you are unsatisfied within the first 7 days, contact our support team for a full refund. After the 7-day window, no refunds will be issued, but you will retain access until the end of your billing cycle."
+  },
+  {
+    "category": "policies",
+    "title": "Free Trial",
+    "content": "AutoStream offers a 14-day free trial for both the Basic and Pro plans. No credit card is required to start your trial. You get full access to all features of your chosen plan during the trial period. At the end of the trial, you can choose to subscribe or your account will be downgraded to a limited free tier."
+  },
+  {
+    "category": "policies",
+    "title": "Cancellation Policy",
+    "content": "You can cancel your AutoStream subscription at any time with no cancellation fees. When you cancel, you retain access to your plan's features until the end of your current billing cycle. Your video projects and data are retained for 30 days after cancellation in case you decide to return."
+  },
+  {
+    "category": "policies",
+    "title": "Customer Support",
+    "content": "24/7 customer support is available exclusively on the Pro plan. Pro plan users get round-the-clock priority support via live chat, email, and a dedicated account manager. Basic plan users get email support with a 24-hour response time, Monday through Friday. All users can access the knowledge base, video tutorials, and community forum."
+  },
+  {
+    "category": "policies",
+    "title": "Data Privacy and Security",
+    "content": "AutoStream takes data privacy seriously. All video files and project data are encrypted in transit and at rest using AES-256 encryption. We never sell your data to third parties. You can export or permanently delete your data at any time. AutoStream is GDPR and CCPA compliant."
+  },
+  {
+    "category": "about",
+    "title": "About AutoStream",
+    "content": "AutoStream is an AI-powered automated video editing SaaS platform designed for content creators, YouTubers, social media influencers, and businesses. Founded in 2024, AutoStream serves over 10,000 creators worldwide. Our mission is to make professional-quality video production effortless and accessible through intelligent automation."
+  }
+]
